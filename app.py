@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
+from bs4 import 
 import streamlit as st
 import pandas as pd
 from urllib.parse import urlparse
